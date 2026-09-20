@@ -48,5 +48,5 @@ Em breve você encontrará aqui projetos desenvolvidos durante minha formação,
 ## 📫 Contato
 
 ![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white) rebeca.rezende.machado@gmail.com
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/rebeca-rezende-machado-74900642b/
-[!Portfólio(https://img.shields.io/badge/Portfólio-6C63FF?style=flat-square&logo=google-chrome&logoColor=white)](SEU_LINK_DO_PORTFÓLIO)
+![LinkedIn(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/rebeca-rezende-machado-74900642b/
+![Portfólio](https://img.shields.io/badge/Portfólio-6C63FF?style=flat-square&logo=google-chrome&logoColor=white)(SEU_LINK_DO_PORTFÓLIO)
