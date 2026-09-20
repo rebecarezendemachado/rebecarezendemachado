@@ -47,6 +47,6 @@ Em breve você encontrará aqui projetos desenvolvidos durante minha formação,
 
 ## 📫 Contato
 
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white) rebeca.rezende.machado@gmail.com
-![LinkedIn(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/rebeca-rezende-machado-74900642b/
-![Portfólio](https://img.shields.io/badge/Portfólio-6C63FF?style=flat-square&logo=google-chrome&logoColor=white)(SEU_LINK_DO_PORTFÓLIO)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://meuportifolionorepositoriogit, colocar link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/caroline-falc%C3%A3o-de-souza-2b2b8a190/](https://www.linkedin.com/in/rebeca-rezende-machado-74900642b/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rebeca.rezende.machado@gmail.com)
